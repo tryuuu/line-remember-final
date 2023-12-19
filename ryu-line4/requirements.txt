@@ -1,0 +1,6 @@
+line-bot-sdk
+urllib3<2
+requests
+boto3
+protobuf
+openai==0.28.1
